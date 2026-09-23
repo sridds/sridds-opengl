@@ -1,0 +1,39 @@
+# CMake build directories
+out/
+
+# IDE directories
+.idea/
+.vs/
+.vscode/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# CMake cache
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Makefile
+
+# Generated files
+*.user
+*.suo
+*.sln.docstates
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# CMake user presets
+CMakeUserPresets.json
